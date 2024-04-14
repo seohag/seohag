@@ -4,14 +4,14 @@
 
 같은 실수를 반복하지 않기 위해 끊임없이 탐구하려하고, 꾸준함을 성장의 원동력으로 삼슴니다.
 
-## Contact
-
-📧 sscgeum@gmail.com
+<br>
 
 ## Projects
 
 - [Interaction](https://github.com/seohag/interaction) 착시를 이용한 3D 웹 게임입니다
 - [Survey101](https://github.com/seohag/survey101-client) 설문 양식을 직접 커스터마이징 하여 링크를 통해 공유하고, 응답을 시각화 하는 웹 입니다
+
+<br>
 
 ## Tech Stack
 
@@ -27,5 +27,11 @@
 
 **ETC** ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+## Contact
+
+📧 sscgeum@gmail.com
 
 
