@@ -8,7 +8,7 @@
 
 ## Projects
 
-- [Interaction]([https://github.com/seohag/interaction](https://github.com/howinteraction/interaction)) 착시를 이용한 3D 웹 게임입니다
+- [Interaction](https://github.com/howinteraction/interaction) 착시를 이용한 3D 웹 게임입니다
 - [Survey101](https://github.com/seohag/survey101-client) 설문 양식을 직접 커스터마이징 하여 링크를 통해 공유하고, 응답을 시각화 하는 웹 입니다
 
 <br>
