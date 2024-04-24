@@ -21,11 +21,11 @@
 
 **Backend** ![](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/MongoDB%20&%20Mongoose-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 
-**ETC** ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**ETC** ![](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br>
 
