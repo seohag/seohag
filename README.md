@@ -21,6 +21,8 @@
 
 📧 sscgeum@gmail.com
 
+<br>
+
 ## StudyLog
 
 📖 [Notion](https://www.notion.so/2f229a89a44e4c06a88954a3fa7d3c34)
